@@ -366,6 +366,7 @@
     "mm.login.invalidmoodleversion": "無效的Moodle版本。至少需要的版本是：",
     "mm.login.invalidsite": "這網站網址無效。",
     "mm.login.login": "登入",
+    "mm.login.loginbutton": "登入",
     "mm.login.logininsiterequired": "您的Moodle網站強制您以系統瀏覽器開啟。將開啟新瀏覽器，並重新導向這Moodle網站。",
     "mm.login.mobileservicesnotenabled": "您的網站並未啟用行動服務。如果您想使用此功能，請連絡您的Moodle網站管理員。",
     "mm.login.password": "密碼",
