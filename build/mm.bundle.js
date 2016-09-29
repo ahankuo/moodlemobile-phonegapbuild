@@ -37514,7 +37514,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "tw.edu.ksu.moodle",
-    "versioncode" : "2014",
+    "versioncode" : "20160901",
     "versionname" : "3.1.2",
     "cache_expiration_time" : 300000,
     "default_lang" : "zh-tw",
