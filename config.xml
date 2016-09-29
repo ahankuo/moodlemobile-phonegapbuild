@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "2014"
+        id        = "tw.edu.ksu.moodle"
+        versionCode = "2016092901"
         version   = "3.1.2">
-    <name>Moodle Mobile</name>
+    <name>崑山網路大學</name>
 
     <description>
-        Moodle Mobile official app
+        崑山網路大學
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://www.ksu.edu.tw/" email="ahan@mail.ksu.edu.tw">
+        Ahan Kuo
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
